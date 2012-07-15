@@ -1,4 +1,6 @@
-Something
-=========
+Google Maps Wrapper
+===================
 
-Something
+## Dependencies
+* Google Maps with API key
+* jQuery
